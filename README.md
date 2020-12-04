@@ -8,7 +8,7 @@ Olá! Seja bem vindo ao meu portfólio!  Nesse README estarei documentando todas
 
 - Dado inicio ao repositório.
 - Adicionado README.
-- Dado inicio aos estudos e documentação HTML.
+- Dado inicio aos estudos e documentação HTML e CSS.
 - Adicionada pasta "imagens".
 
 
